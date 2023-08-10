@@ -1,0 +1,2 @@
+- [Favicon Converter](https://favicon.io/favicon-converter/)
+- [Free SVG Icons](https://www.flaticon.com)
